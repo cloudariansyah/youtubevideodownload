@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Download output
+downloads/
+
+# Local history
+history.json
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
